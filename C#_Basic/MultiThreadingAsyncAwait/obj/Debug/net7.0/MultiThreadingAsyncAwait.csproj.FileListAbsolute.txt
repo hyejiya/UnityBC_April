@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\bin\Debug\net7.0\MultiThreadingAsyncAwait.exe
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\bin\Debug\net7.0\MultiThreadingAsyncAwait.deps.json
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\bin\Debug\net7.0\MultiThreadingAsyncAwait.runtimeconfig.json
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\bin\Debug\net7.0\MultiThreadingAsyncAwait.dll
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\bin\Debug\net7.0\MultiThreadingAsyncAwait.pdb
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\obj\Debug\net7.0\MultiThreadingAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\obj\Debug\net7.0\MultiThreadingAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\obj\Debug\net7.0\MultiThreadingAsyncAwait.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\obj\Debug\net7.0\MultiThreadingAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\obj\Debug\net7.0\MultiThreadingAsyncAwait.dll
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\obj\Debug\net7.0\refint\MultiThreadingAsyncAwait.dll
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\obj\Debug\net7.0\MultiThreadingAsyncAwait.pdb
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\obj\Debug\net7.0\MultiThreadingAsyncAwait.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\UnityBC_April\C#_Basic\MultiThreadingAsyncAwait\obj\Debug\net7.0\ref\MultiThreadingAsyncAwait.dll
