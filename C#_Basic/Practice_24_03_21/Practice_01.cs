@@ -17,7 +17,7 @@ struct ItemData
 
 internal class Practice_01
 {
-    static void Main(string[] args) //stack : 4byte + 4byte
+    static void Main_(string[] args) //stack : 4byte + 4byte
     {
         object obj = new CharacterController(); 
    
